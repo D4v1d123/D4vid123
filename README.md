@@ -3,7 +3,7 @@
 </div>
 <img src="img/banner.png" width="100%" alt="Banner">
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,django,kubernetes,docker,git,html,css,js&theme=light" alt="Logos de las tecnologías de programación"/>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,py,django,kubernetes,docker,git,html,css,js&theme=light" alt="Logos de las tecnologías de programación"/>
 </div>
 <br>
 
